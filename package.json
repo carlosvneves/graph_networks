@@ -11,7 +11,7 @@
   "dependencies": {
     "@types/d3-force": "^3.0.10",
     "@types/dagre": "^0.7.52",
-    "@xyflow/react": "^12.3.4",
+    "@xyflow/react": "^12.4.0",
     "d3-dsv": "^3.0.1",
     "d3-force": "^3.0.0",
     "dager": "^2.0.1",
